@@ -1,16 +1,7 @@
-# cardgame
+# Flutter Card Game
 
-A new Flutter project.
+This is the final source code of the Flutter card game course available online (here)[https://www.youtube.com/watch?v=PSN2hBf8D5Q].
 
-## Getting Started
+In the course, we will be solving common problems that come with building real-world applications including working with an external API using http and UI state management using the Provider package.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+We'll also have some fun coding some AI for our bot players and making use of inheritance in order to support different games that run off of the same core engine.
