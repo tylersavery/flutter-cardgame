@@ -17,7 +17,7 @@ class Turn {
 
   void nextTurn() {
     index += 1;
-    currentPlayer = index % 2 == 0 ? players[0] : players[1];
+    currentPlayer = players[index % (players.length + 1)];
     drawCount = 0;
     actionCount = 0;
   }
